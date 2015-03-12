@@ -73,5 +73,5 @@
 
     git remote add upstream git@github.com:UlfNorell/agda-summer-school.git
     git fetch upstream
-    git merge upstream/master
-    git push origin master
+    git merge upstream/OPLSS
+    git push origin OPLSS
