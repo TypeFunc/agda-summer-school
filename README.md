@@ -65,3 +65,13 @@
 
 - Add more features to the lambda calculus (natrec, booleans, ...).
 - Invent your own exercises.
+
+
+-------------------------------------------------------------------------------
+
+**Git commands** for keeping fork up-to-date with upstream repo
+
+    git remote add upstream git@github.com:UlfNorell/agda-summer-school.git
+    git fetch upstream
+    git merge upstream/master
+    git push origin master
